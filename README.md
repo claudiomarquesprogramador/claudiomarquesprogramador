@@ -1,8 +1,10 @@
 ### Olá 👋
 - Sou Autônomo, fazendo Freelancer em HTML e CSS.
 - Estou estudando JavaScript.
-- Em busca de trabalhos Freelancer ou um principal de meio período.
+- Em busca de trabalhos Freelancers ou um fixo de meio período.
 - Contato https://www.instagram.com/claudiomarquesprogramador/
+- Porfólio
+- https://claudiomarquesprogramador.github.io/Projeto-loja-bebe-carinhoso/
 <!--
 **claudiomarquesprogramador/claudiomarquesprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
