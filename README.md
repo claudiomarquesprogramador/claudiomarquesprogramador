@@ -1,6 +1,6 @@
 ### Olá 👋
 - Sou Autônomo, fazendo Freelancer em JavaScript, HTML e CSS.
-- Em busca de trabalhos Freelancers ou um fixo de meio período.
+- Em busca de trabalhos Freelancers ou um fixo.
 - Contato https://www.instagram.com/claudiomarquesprogramador/
 - Porfólio
 - https://claudiomarquesprogramador.github.io/cmp/
