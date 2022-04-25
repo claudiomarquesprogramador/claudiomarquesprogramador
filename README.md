@@ -1,7 +1,7 @@
 ### Olá 👋
-- Sou Autônomo, fazendo Freelancer em JavaScript, HTML e CSS.
-- Em busca de trabalhos Freelancers ou um fixo.
-- Contato https://www.instagram.com/claudiomarquesprogramador/
+- Programador JavaScript. Desenvolvedor Bootstrap, HTML e CSS. Metodologia ágil Scrum.
+- Em busca de emprego fixo ou Freelancer.
+- Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Porfólio
 - https://claudiomarquesprogramador.github.io/cmp/
 - https://claudiomarquesprogramador.github.io/gta-v-eyefind.info/
