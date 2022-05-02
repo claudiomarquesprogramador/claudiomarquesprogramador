@@ -1,5 +1,5 @@
 ### Olá 👋
-- Programador JavaScript. Desenvolvedor Bootstrap, HTML e CSS. Metodologia ágil Scrum.
+- Conhecimento profundo em JavaScript, HTML e CSS. E conhecimento em framework: Bootstrap. Biblioteca: ReactJS. E metodologia ágil Scrum.
 - Em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Portfólio por ordem cronológica.
