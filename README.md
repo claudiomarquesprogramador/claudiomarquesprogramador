@@ -2,7 +2,8 @@
 - Programador JavaScript. Desenvolvedor Bootstrap, HTML e CSS. Metodologia ágil Scrum.
 - Em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
-- Porfólio
+- Portfólio por ordem cronológica.
+- https://claudiomarquesprogramador.github.io/carrefour-web-developer-desafio-netflix/
 - https://claudiomarquesprogramador.github.io/cmp/
 - https://claudiomarquesprogramador.github.io/gta-v-eyefind.info/
 - https://claudiomarquesprogramador.github.io/Projeto-loja-bebe-carinhoso/
