@@ -3,6 +3,7 @@
 - Em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Portfólio por ordem cronológica.
+- https://receitas-jantar-rapido.cmprogramador.repl.co/
 - https://claudiomarquesprogramador.github.io/gibi/
 - https://claudiomarquesprogramador.github.io/tech-day-carrefour-web-developer/
 - https://claudiomarquesprogramador.github.io/carrefour-web-developer-desafio-netflix/
