@@ -1,8 +1,9 @@
 ### Olá 👋
-- Sólido conhecimento em JavaScript, React, Bootstrap, HTML e CSS. E conhecimento em Node.js e Java. Framework: Spring Boot. E metodologia ágil Scrum.
+- Sólido conhecimento em JavaScript, React, Bootstrap, HTML e CSS. E conhecimento em Node.js, Java e MySQL. Biblioteca: jQuery. Framework: Spring Boot. E metodologia ágil Scrum.
 - Em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Portfólio por ordem cronológica.
+- https://github.com/claudiomarquesprogramador/projeto-logico-de-banco-de-dados-do-zero-dio
 - https://github.com/claudiomarquesprogramador/projeto-logico-de-banco-de-dados-dio
 - https://receitas-jantar-rapido.cmprogramador.repl.co/
 - https://claudiomarquesprogramador.github.io/gibi/
