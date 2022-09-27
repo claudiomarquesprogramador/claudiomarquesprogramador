@@ -3,6 +3,7 @@
 - Em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Portfólio por ordem cronológica.
+- https://sixthdaysystems.github.io/convite-dois-ponto-zero/portfolio/index
 - https://github.com/claudiomarquesprogramador/projeto-logico-de-banco-de-dados-do-zero-dio
 - https://github.com/claudiomarquesprogramador/projeto-logico-de-banco-de-dados-dio
 - https://receitas-jantar-rapido.cmprogramador.repl.co/
