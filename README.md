@@ -1,6 +1,6 @@
 ### Olá 👋
 - Sólido conhecimento em JavaScript, React, Bootstrap, HTML e CSS. E conhecimento em Node.js, Java e MySQL. Biblioteca: jQuery. Framework: Spring Boot. E metodologia ágil Scrum.
-- Em busca de emprego fixo ou Freelancer.
+- Proprietário da https://github.com/sixthdaysystems e em busca de emprego fixo ou Freelancer.
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Currículo: https://claudiomarquesprogramador.github.io/curriculo/
 - Portfólio por ordem cronológica.
