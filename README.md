@@ -4,6 +4,7 @@
 - Contato claudiomarquesprogramador@gmail.com ou https://www.instagram.com/claudiomarquesprogramador/
 - Currículo: https://claudiomarquesprogramador.github.io/curriculo/
 - Portfólio por ordem cronológica.
+- https://claudiomarquesprogramador.github.io/curso-de-geladinho/ Curso de Geladinho Gourmet, R$ 200,00 o preço do login e senha.
 - https://sixthdaysystems.github.io/convite-dois-ponto-zero/tematico/instagram/index
 - https://claudiomarquesprogramador.github.io/modelo-aniversario1-react/
 - https://sixthdaysystems.github.io/convite-dois-ponto-zero/portfolio/index
