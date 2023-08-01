@@ -21,6 +21,7 @@
 - https://claudiomarquesprogramador.github.io/Projeto-loja-bebe-carinhoso/
 - https://lojabebecarinhoso.weebly.com/
 - https://claudiomarquesprogramador.github.io/tamanho-da-tela/
+- https://claudiomarquesprogramador.github.io/calculador-kg/
 <!--
 **claudiomarquesprogramador/claudiomarquesprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
