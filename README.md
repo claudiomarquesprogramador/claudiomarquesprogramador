@@ -4,6 +4,7 @@
 - Contato claudiomarquesprogramador@gmail.com
 - Currículo: https://claudiomarquesprogramador.github.io/curriculo/
 - Portfólio por ordem cronológica.
+- https://claudiomarquesprogramador.github.io/trilha-css-desafio-01/
 - https://sixthdaysystems.github.io/maria-julia-e-estrelinha/
 - https://sixthdaysystems.github.io/a-aventura-animal-de-agatha/
 - https://sixthdaysystems.github.io/show-do-milhao-console-log/
