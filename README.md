@@ -4,6 +4,7 @@
 - Contato claudiomarquesprogramador@gmail.com
 - Currículo: https://claudiomarquesprogramador.github.io/curriculo/
 - Portfólio por ordem cronológica.
+- https://sixthdaysystems.github.io/cardapio-digital/
 - https://claudiomarquesprogramador.github.io/memory-game-dio/
 - https://claudiomarquesprogramador.github.io/detona-ralph-dio/
 - https://claudiomarquesprogramador.github.io/trilha-css-desafio-01/
